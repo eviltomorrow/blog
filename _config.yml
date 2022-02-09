@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Shepard's Blog 博客｜Lucky
+title: Shepard's Blog
 subtitle: 金融永不眠 | Have a good luck.
 author: Shepard
 language: en
@@ -19,7 +19,7 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Shepard's Blog
+SEOTitle: Shepard's Blog 博客｜Lucky
 email: eviltomorrow@mail.com
 description: "Shepard's Blog"
 keyword: "eviltomorrow, shepard, tech, finance, blog"
