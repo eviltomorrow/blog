@@ -74,21 +74,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 ## Friends
-friends: [
-    # {
-    #     title: "Dusign's Blog",
-    #     href: "https://blog.csdn.net/d_Nail"
-    # },{
-    #     title: "Dusign's Web",
-    #     href: "#"
-    # },{
-    #     title: "Dusign's Github",
-    #     href: "https://github.com/dusign"
-    # },{
-    #     title: "Other",
-    #     href: "#"
-    # }
-]
+# friends: [
+# ]
 
 math:
   enable: true
@@ -208,7 +195,7 @@ music:
 
 # Tip
 tip:
-  enable: true
+  enable: false
   copyright: This is copyright.
   content: false
 
