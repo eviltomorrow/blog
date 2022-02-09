@@ -42,17 +42,12 @@ ga_track_id: 'UA-XXXXXXXX-X'          # Format: UA-xxxxxx-xx
 ga_domain: www.roigo.me
 
 # Sidebar settings
-sidebar: true                      # whether or not using Sidebar.
+sidebar: false                     # whether or not using Sidebar.
 sidebar-about-description: "Welcome to visit, I'm Shepard!"
 sidebar-avatar: img/header.jpeg    # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - search
 - featured-tags
-- short-about
-- visitor
-- recent-posts
-- archive
-- category
 
 ## Search
 search:
