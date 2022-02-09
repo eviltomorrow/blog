@@ -230,7 +230,7 @@ mouse_control: false
 
 # Visitor statistics
 visitor:
-  enable: true
+  enable: false
   type:
 
 # Chinese Blog
