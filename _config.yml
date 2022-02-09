@@ -49,7 +49,7 @@ widgets:
 - search
 - featured-tags
 - short-about
-- visitor
+# - visitor
 - recent-posts
 # - friends-blog
 - archive
@@ -212,7 +212,7 @@ bg_effects:
     zIndex: -9
     count: 99
   mouse_click:
-    enable: true
+    enable: false
     content: '"🌱","just do it","🍀"'
     color: '"rgb(121,93,179)"
           ,"rgb(76,180,231)"
@@ -229,7 +229,7 @@ mouse_control: false
 
 # Visitor statistics
 visitor:
-  enable: true
+  enable: false
   type:
 
 # Chinese Blog
