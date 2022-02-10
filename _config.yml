@@ -36,7 +36,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 6146bc91373fdc84b48f397ab1ba8932
 # Google Analytics
 ga_track_id: 'UA-219975964-1'          # Format: UA-xxxxxx-xx
 ga_domain: www.roigo.me
