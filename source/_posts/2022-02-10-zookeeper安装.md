@@ -89,7 +89,7 @@ Using config: /usr/local/zookeeper/apache-zookeeper-3.7.0-bin/bin/../conf/zoo.cf
 Starting zookeeper ... STARTED
 ```
 
-### 停止ZooKeeper服务器
+### 停止 zookeeper 
 
 ```shell
 $ cd /usr/local/zookeeper/apache-zookeeper-3.7.0-bin/bin
