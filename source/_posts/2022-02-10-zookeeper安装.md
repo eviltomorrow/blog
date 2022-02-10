@@ -2,13 +2,13 @@
 title: Centos8 下 zookeeper 的安装(单机模式)
 catalog: true
 comments: true
-date: 2022-02-10 12:38:00
+date: 2022-02-10 13:50:00
 subtitle: Vagrant+VirtualBox 下安装 zookeeper.
-header-img: img/header_img/home-bg-1-dark.jpg
+header-img: general_bg.jpg
 tags:
     - Linux
     - Zookeeper
-    - 安装
+    - JDK
 categories:
     - 技术
 ---
