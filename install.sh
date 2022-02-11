@@ -4,8 +4,6 @@ npm install
 npm install hexo-wordcount --save
 npm uninstall hexo-renderer-marked --save
 npm install hexo-renderer-kramed --save
-npm uninstall hexo-math --save
-npm install hexo-renderer-mathjax --save
 
 
 # 文件：blog/node_modules/hexo-renderer-mathjax/mathjax.html
