@@ -50,12 +50,12 @@ sidebar-avatar: img/header.jpeg      # use absolute URL, seeing it's used in bot
 widgets:
 - search
 - featured-tags
-- short-about
 # - visitor
 - recent-posts
 # - friends-blog
 - archive
 - category
+- short-about
 
 ## Search
 search:
