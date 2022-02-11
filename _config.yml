@@ -30,6 +30,8 @@ signature-img: img/signature/Just-do-it-white.png
 # SNS settings
 github_username:    eviltomorrow
 twitter_username:   eviltomorrow
+instagram_username: eviltomorrow
+weibo_username:     eviltomorrow
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
