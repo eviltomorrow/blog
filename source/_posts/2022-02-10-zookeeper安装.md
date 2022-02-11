@@ -4,7 +4,7 @@ catalog: true
 comments: true
 date: 2022-02-10 13:50:00
 subtitle: Vagrant+VirtualBox 下安装 zookeeper.
-header-img: general_bg.jpg
+header-img: /img/header_img/home-bg-1-dark.jpg
 tags:
     - Linux
     - Zookeeper
