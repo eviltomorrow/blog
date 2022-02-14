@@ -4,3 +4,6 @@ build:
 
 run:
 	hexo server
+
+pub:
+	@blog-deploy
