@@ -48,7 +48,6 @@ sidebar: true                      # whether or not using Sidebar.
 sidebar-about-description: "Welcome to visit, I'm Shepard!"
 sidebar-avatar: img/header.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
-- search
 - featured-tags
 # - visitor
 - recent-posts
@@ -56,6 +55,7 @@ widgets:
 - archive
 - category
 # - short-about
+- search
 
 ## Search
 search:
