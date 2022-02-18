@@ -55,7 +55,7 @@ widgets:
 # - friends-blog
 - archive
 - category
-- short-about
+# - short-about
 
 ## Search
 search:
